@@ -13,12 +13,29 @@ const CTA = () => {
             Schedule a consultation to discover how custom prosthetics can transform your quality of life.
           </p>
           
-          <div className="flex flex-col sm:flex-row gap-4 max-w-xl mx-auto mb-8">
+          <div className="flex flex-col gap-4 max-w-xl mx-auto mb-8">
             <Input 
               type="email" 
               placeholder="Enter your email" 
               className="h-14 text-lg rounded-xl border-2"
             />
+            <div className="grid grid-cols-3 gap-4">
+              <Input 
+                type="text" 
+                placeholder="Height" 
+                className="h-14 text-lg rounded-xl border-2"
+              />
+              <Input 
+                type="text" 
+                placeholder="Weight" 
+                className="h-14 text-lg rounded-xl border-2"
+              />
+              <Input 
+                type="text" 
+                placeholder="Age" 
+                className="h-14 text-lg rounded-xl border-2"
+              />
+            </div>
             <Button size="lg" className="text-lg px-8 h-14 rounded-xl whitespace-nowrap">
               Get Started
             </Button>
