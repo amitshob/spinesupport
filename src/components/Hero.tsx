@@ -8,13 +8,13 @@ const Hero = () => {
         <div className="grid lg:grid-cols-2 gap-12 items-center">
           <div className="space-y-8 text-center lg:text-left">
             <h1 className="text-5xl md:text-6xl lg:text-7xl font-bold tracking-tight text-balance leading-[1.1]">
-              Custom Prosthetics for
+              Custom Orthotics for
               <span className="block mt-2 bg-gradient-to-r from-medical-cyan to-medical-blue bg-clip-text text-transparent">
                 Chronic Spine Relief
               </span>
             </h1>
             <p className="text-lg md:text-xl text-muted-foreground max-w-2xl text-balance">
-              Precision-engineered prosthetic solutions tailored to your unique needs. Relief from sciatica, herniated discs, and spinal stenosis.
+              Precision-engineered orthotic solutions tailored to your unique needs. Relief from sciatica, herniated discs, and spinal stenosis.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center lg:justify-start">
               <Button size="lg" className="text-lg px-8 py-6 rounded-xl transition-all hover:scale-105">

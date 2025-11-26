@@ -7,7 +7,7 @@ const conditions = [
   },
   {
     name: "Herniated Disc",
-    description: "Targeted prosthetics designed to alleviate pressure on affected spinal discs.",
+    description: "Targeted orthotics designed to alleviate pressure on affected spinal discs.",
   },
   {
     name: "Degenerative Disc Disease",
@@ -28,7 +28,7 @@ const Conditions = () => {
             Conditions We Treat
           </h2>
           <p className="text-lg text-muted-foreground max-w-2xl mx-auto text-balance">
-            Specialized prosthetic solutions for chronic spine-related conditions
+            Specialized orthotic solutions for chronic spine-related conditions
           </p>
         </div>
         

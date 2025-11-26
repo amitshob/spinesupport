@@ -1,7 +1,7 @@
 const features = [
   {
     title: "Custom Design",
-    description: "Every prosthetic is engineered specifically for your unique anatomy and condition.",
+    description: "Every orthotic is engineered specifically for your unique anatomy and condition.",
   },
   {
     title: "Medical Precision",
@@ -22,7 +22,7 @@ const WhyChooseUs = () => {
             Why Choose Us
           </h2>
           <p className="text-lg text-muted-foreground max-w-2xl mx-auto text-balance">
-            Experience the difference of truly personalized prosthetic care
+            Experience the difference of truly personalized orthotic care
           </p>
         </div>
         

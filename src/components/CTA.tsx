@@ -10,7 +10,7 @@ const CTA = () => {
             Start Your Journey to Relief
           </h2>
           <p className="text-lg text-muted-foreground mb-12 text-balance">
-            Schedule a consultation to discover how custom prosthetics can transform your quality of life.
+            Schedule a consultation to discover how custom orthotics can transform your quality of life.
           </p>
           
           <div className="flex flex-col gap-4 max-w-2xl mx-auto mb-8">
