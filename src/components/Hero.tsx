@@ -28,11 +28,14 @@ const Hero = () => {
           
           <div className="relative flex justify-center lg:justify-end">
             <div className="relative w-full max-w-lg">
-              <div className="absolute inset-0 bg-gradient-to-br from-medical-cyan/20 to-pain-orange/20 blur-3xl rounded-full" />
               <img 
                 src={spineHero} 
                 alt="Medical illustration showing spine with highlighted pain areas" 
-                className="relative z-10 w-full h-auto drop-shadow-2xl animate-float"
+                className="relative z-10 w-full h-auto animate-float"
+                style={{
+                  maskImage: 'radial-gradient(ellipse 70% 80% at center, black 40%, transparent 100%)',
+                  WebkitMaskImage: 'radial-gradient(ellipse 70% 80% at center, black 40%, transparent 100%)'
+                }}
               />
             </div>
           </div>
