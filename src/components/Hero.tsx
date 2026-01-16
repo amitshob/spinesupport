@@ -14,12 +14,9 @@ const Hero = () => {
               </span>
             </h1>
             <p className="text-lg md:text-xl text-muted-foreground max-w-2xl text-balance">
-              Precision-engineered orthotic solutions tailored to your unique needs. Relief from sciatica, herniated discs, and spinal stenosis.
+              Precision-engineered cushion belt tailored to your unique anatomy. Helps maintained posture while in lying on your back.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center lg:justify-start">
-              <Button size="lg" className="text-lg px-8 py-6 rounded-xl transition-all hover:scale-105">
-                Schedule Consultation
-              </Button>
               <Button size="lg" variant="outline" className="text-lg px-8 py-6 rounded-xl border-2 transition-all hover:scale-105">
                 Learn More
               </Button>
