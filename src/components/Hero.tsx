@@ -8,9 +8,9 @@ const Hero = () => {
         <div className="grid lg:grid-cols-2 gap-12 items-center">
           <div className="space-y-8 text-center lg:text-left">
             <h1 className="text-5xl md:text-6xl lg:text-7xl font-bold tracking-tight text-balance leading-[1.1]">
-              Custom Orthotics for
+              Custom Sneakers
               <span className="block mt-2 bg-gradient-to-r from-medical-cyan to-medical-blue bg-clip-text text-transparent">
-                Chronic Spine Relief
+                For your Spine
               </span>
             </h1>
             <p className="text-lg md:text-xl text-muted-foreground max-w-2xl text-balance">
