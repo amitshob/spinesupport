@@ -19,10 +19,10 @@ const WhyChooseUs = () => {
       <div className="container mx-auto px-6 lg:px-8">
         <div className="text-center mb-16">
           <h2 className="text-4xl md:text-5xl lg:text-6xl font-bold mb-4">
-            Why Choose Us
+            What people are saying
           </h2>
-          <p className="text-lg text-muted-foreground max-w-2xl mx-auto text-balance">
-            Experience the difference of truly personalized orthotic care
+          <p className="text-lg text-muted-foreground max-w-2xl mx-auto text-balance italic">
+            "It fills the space between the natural curve of your spine and the surface you lay on with a material that feels like a natural extension of your body."
           </p>
         </div>
         
