@@ -7,10 +7,10 @@ const CTA = () => {
       <div className="container mx-auto px-6 lg:px-8">
         <div className="max-w-3xl mx-auto text-center">
           <h2 className="text-4xl md:text-5xl lg:text-6xl font-bold mb-6">
-            Start Your Journey to Relief
+            Start Your Journey
           </h2>
           <p className="text-lg text-muted-foreground mb-12 text-balance">
-            Schedule a consultation to discover how custom orthotics can transform your quality of life.
+            Submit the form below. We will get back with the next steps.
           </p>
           
           <div className="flex flex-col gap-4 max-w-2xl mx-auto mb-8">
@@ -52,12 +52,12 @@ const CTA = () => {
             </div>
             
             <Button size="lg" className="text-lg px-8 h-14 rounded-xl w-full sm:w-auto sm:mx-auto">
-              Get Started
+              Submit
             </Button>
           </div>
           
           <p className="text-sm text-muted-foreground">
-            No commitment required. Free initial consultation.
+            This solution is for general lumbar support. It is not intended to treat or correct any medical condition.
           </p>
         </div>
       </div>
