@@ -13,14 +13,9 @@ const Hero = () => {
                 For your Spine
               </span>
             </h1>
-            <p className="text-lg md:text-xl text-muted-foreground max-w-2xl text-balance">
-              Precision-engineered lumbar support belt with cushion tailored to your unique anatomy. Helps maintain posture while lying on your back.
+            <p className="text-lg md:text-xl text-muted-foreground max-w-2xl mx-auto lg:mx-0 text-balance text-center lg:text-left">
+              Precision-engineered lumbar support belt with cushion tailored to your unique anatomy. Helps maintain posture while sleeping on your back.
             </p>
-            <div className="flex flex-col sm:flex-row gap-4 justify-center lg:justify-start">
-              <Button size="lg" variant="outline" className="text-lg px-8 py-6 rounded-xl border-2 transition-all hover:scale-105">
-                Learn More
-              </Button>
-            </div>
           </div>
           
           <div className="relative flex justify-center lg:justify-end">

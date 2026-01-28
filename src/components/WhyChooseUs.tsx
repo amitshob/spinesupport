@@ -1,15 +1,15 @@
 const features = [
   {
     title: "Custom Design",
-    description: "Every orthotic is engineered specifically for your unique anatomy and condition.",
+    description: "Every device is engineered specifically for your unique anatomy and condition.",
   },
   {
-    title: "Medical Precision",
-    description: "Advanced biomechanical analysis ensures optimal support and pain relief.",
+    title: "Rugged Precision",
+    description: "Advanced biomechanical analysis ensures optimal support. Durable washable solution.",
   },
   {
     title: "Continuous Care",
-    description: "Ongoing adjustments and support throughout your recovery journey.",
+    description: "Ongoing adjustments and support as needed.",
   },
 ];
 
