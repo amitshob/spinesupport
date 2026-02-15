@@ -7,7 +7,7 @@ const Header = () => {
         <img
           src={logo}
           alt="Custom Spine Orthotics logo"
-          className="h-[34px] w-auto"
+          className="h-[20px] w-auto"
         />
       </div>
     </header>
