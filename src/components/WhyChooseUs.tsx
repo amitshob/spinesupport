@@ -8,7 +8,7 @@ const features = [
     description: "Advanced biomechanical analysis ensures optimal support. Durable washable solution.",
   },
   {
-    title: "Continuous Care",
+    title: "Adjustable design",
     description: "Ongoing adjustments and support as needed.",
   },
 ];
@@ -22,7 +22,13 @@ const WhyChooseUs = () => {
             What people are saying
           </h2>
           <p className="text-lg text-muted-foreground max-w-2xl mx-auto text-balance italic">
-            "It fills the space between the natural curve of your spine and the surface you lay on with a material that feels like a natural extension of your body."
+            "It fills the space between the natural curve of your lower spine and the surface you lay on with a device that feels like a natural extension of your body."
+          </p>
+          <p className="text-lg text-muted-foreground max-w-2xl mx-auto text-balance italic mt-4">
+            "I used to place a folded towel under my lower back for relief. It did not stay in place. This stays in place through the night."
+          </p>
+          <p className="text-lg text-muted-foreground max-w-2xl mx-auto text-balance italic mt-4">
+            "I feel better when sleeping on a firmer surface. With this I am actually able to sleep on my yoga mat!"
           </p>
         </div>
         

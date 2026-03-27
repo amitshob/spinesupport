@@ -74,7 +74,7 @@ const CTA = () => {
       <div className="container mx-auto px-6 lg:px-8">
         <div className="max-w-3xl mx-auto text-center">
           <h2 className="text-4xl md:text-5xl lg:text-6xl font-bold mb-6">
-            Start Your Journey
+            Start the Process
           </h2>
           <p className="text-lg text-muted-foreground mb-12 text-balance">
             Submit the form below. We will get back with the next steps.

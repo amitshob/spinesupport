@@ -14,7 +14,7 @@ const Hero = () => {
               </span>
             </h1>
             <p className="text-lg md:text-xl text-muted-foreground max-w-2xl mx-auto lg:mx-0 text-balance text-center lg:text-left">
-              Precision-engineered lumbar support belt with cushion tailored to your unique anatomy. Helps maintain posture while sleeping on your back.
+              Precision-engineered wearable lumbar support tailored to your unique anatomy. Helps maintain posture while sleeping on your back.
             </p>
           </div>
           
