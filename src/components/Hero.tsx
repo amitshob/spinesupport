@@ -25,8 +25,8 @@ const Hero = () => {
                 alt="Medical illustration showing spine with highlighted pain areas" 
                 className="relative z-10 w-full h-auto animate-float"
                 style={{
-                  maskImage: 'radial-gradient(ellipse 55% 60% at center, black 20%, transparent 70%)',
-                  WebkitMaskImage: 'radial-gradient(ellipse 55% 60% at center, black 20%, transparent 70%)'
+                  maskImage: 'radial-gradient(ellipse 80% 80% at center, black 60%, transparent 90%)',
+                  WebkitMaskImage: 'radial-gradient(ellipse 80% 80% at center, black 60%, transparent 90%)'
                 }}
               />
             </div>
