@@ -153,7 +153,7 @@ const CTA = () => {
           </form>
           
           <p className="text-sm text-muted-foreground">
-            This solution is for general lumbar support. It is not intended to treat or correct any medical condition.
+            This solution is for general lumbar support. It is not FDA approved to treat or correct any specific medical condition.
           </p>
         </div>
       </div>
